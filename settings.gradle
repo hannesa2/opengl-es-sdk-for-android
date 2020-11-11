@@ -29,7 +29,7 @@ include ':samples:advanced_samples:ThreadSync'
 include ':samples:advanced_samples:Translucency'
 include ':samples:advanced_samples:Triangle'
 
-include ':samples:tutorials:AssetLoading'
+//include ':samples:tutorials:AssetLoading'
 include ':samples:tutorials:Boids'
 include ':samples:tutorials:FileLoading'
 include ':samples:tutorials:FoveatedRendering'

@@ -22,11 +22,8 @@
 .externalNativeBuild
 build
 *.iml
-gradle
-gradlew
-gradlew.bat
-gradle-wrapper
 .idea
 .gradle
 local.properties
 docs/
+.cxx/
